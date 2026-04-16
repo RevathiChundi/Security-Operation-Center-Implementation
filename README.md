@@ -143,17 +143,4 @@ Cybersecurity Graduate Student | SOC Analyst | Threat Detection & Incident Respo
 ## 🤝 Acknowledgment
 This was a **team-based project** developed at **Temple University**, where team members collaboratively designed and implemented a SOC environment to simulate real-world cybersecurity operations.
 
----
 
-## 🔗 Setup Instructions (Optional for Reproducibility)
-1. Deploy virtual machines in Azure  
-2. Install and configure Wazuh agents  
-3. Set up Splunk for log ingestion and dashboards  
-4. Configure TheHive and Cortex integration  
-5. Integrate MISP for threat intelligence  
-6. Run vulnerability scans and simulate attack scenarios  
-7. Monitor alerts and perform incident response  
-
----
-
-⭐ *If you found this project useful, feel free to star the repository!*
